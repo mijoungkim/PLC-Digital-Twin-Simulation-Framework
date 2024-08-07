@@ -2,6 +2,8 @@
 
 This repository contains a framework for creating and simulating digital twins of PLC (Programmable Logic Controller) systems using JavaScript.
 
+![Frame55](images/Frame55.png)
+
 ## Features
 - Real-time simulation of PLC systems
 - Integration with various PLC hardware and software
